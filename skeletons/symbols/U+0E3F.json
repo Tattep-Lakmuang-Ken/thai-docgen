@@ -1,0 +1,2252 @@
+{
+  "format_version": "1.0",
+  "character": "฿",
+  "character_name": "บาท",
+  "codepoint": "U+0E3F",
+  "unicode_name": "THAI CURRENCY SYMBOL BAHT",
+  "category": "symbol",
+  "placement": {
+    "kind": "spacing_symbol",
+    "attach_to": null,
+    "anchor": "baseline"
+  },
+  "canvas": {
+    "width": 64,
+    "height": 96,
+    "baseline_y": 78,
+    "ascender_y": 10,
+    "descender_y": 88
+  },
+  "metrics": {
+    "advance_width": 58,
+    "left_bearing": 11.458,
+    "right_bearing": 9.292
+  },
+  "reference": {
+    "canonical_style": "thai_round_head_optional",
+    "trace_method": "font_medial_axis_graph",
+    "stroke_order_source": null,
+    "shape_reference_source": "Noto Sans Thai Looped 2.000 (SIL OFL 1.1); centerline derived with Zhang-Suen thinning",
+    "reference_notes": "geometry_checked_against_reference_glyph; branch paths are ordered by position and must not be treated as an authoritative school stroke order"
+  },
+  "review": {
+    "status": "geometry_checked",
+    "topology": "medial_axis_graph",
+    "stroke_order": "inferred_position_order",
+    "clean_preview": "passed_contact_sheet_review",
+    "variation_test": "sampler_implemented_not_visually_reviewed",
+    "review_notes": "Centerline connectivity and glyph silhouette checked against the reference preview; instructional stroke order is not verified."
+  },
+  "strokes": [
+    {
+      "stroke_id": "stroke_01",
+      "pen_order": 1,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p01_00",
+          "x": 32.125,
+          "y": 3.5,
+          "role": "start",
+          "locked": false,
+          "max_shift_x": 0.2,
+          "max_shift_y": 0.2
+        },
+        {
+          "id": "c01_01a",
+          "x": 32.125,
+          "y": 3.875,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_01b",
+          "x": 32.229,
+          "y": 5.271,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_01",
+          "x": 32.125,
+          "y": 5.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_02a",
+          "x": 32.021,
+          "y": 6.229,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_02b",
+          "x": 31.604,
+          "y": 6.271,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_02",
+          "x": 31.5,
+          "y": 6.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p01_00",
+          "control_1": "c01_01a",
+          "control_2": "c01_01b",
+          "to": "p01_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_01",
+          "control_1": "c01_02a",
+          "control_2": "c01_02b",
+          "to": "p01_02"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_02",
+      "pen_order": 2,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p02_00",
+          "x": 31.5,
+          "y": 6.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_01a",
+          "x": 28.667,
+          "y": 6.375,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_01b",
+          "x": 17.417,
+          "y": 6.312,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_01",
+          "x": 14.5,
+          "y": 6.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_02a",
+          "x": 11.583,
+          "y": 6.438,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_02b",
+          "x": 14.104,
+          "y": 1.75,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_02",
+          "x": 14.0,
+          "y": 6.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_03a",
+          "x": 13.896,
+          "y": 11.75,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_03b",
+          "x": 13.896,
+          "y": 31.438,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_03",
+          "x": 13.875,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p02_00",
+          "control_1": "c02_01a",
+          "control_2": "c02_01b",
+          "to": "p02_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_01",
+          "control_1": "c02_02a",
+          "control_2": "c02_02b",
+          "to": "p02_02"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_02",
+          "control_1": "c02_03a",
+          "control_2": "c02_03b",
+          "to": "p02_03"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_03",
+      "pen_order": 3,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p03_00",
+          "x": 31.5,
+          "y": 6.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c03_01a",
+          "x": 31.75,
+          "y": 6.438,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c03_01b",
+          "x": 32.75,
+          "y": 6.688,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p03_01",
+          "x": 33.0,
+          "y": 6.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p03_00",
+          "control_1": "c03_01a",
+          "control_2": "c03_01b",
+          "to": "p03_01"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_04",
+      "pen_order": 4,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p04_00",
+          "x": 33.0,
+          "y": 6.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_01a",
+          "x": 32.854,
+          "y": 6.896,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_01b",
+          "x": 32.271,
+          "y": 2.688,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_01",
+          "x": 32.125,
+          "y": 7.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_02a",
+          "x": 31.979,
+          "y": 12.562,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_02b",
+          "x": 32.125,
+          "y": 31.583,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_02",
+          "x": 32.125,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p04_00",
+          "control_1": "c04_01a",
+          "control_2": "c04_01b",
+          "to": "p04_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_01",
+          "control_1": "c04_02a",
+          "control_2": "c04_02b",
+          "to": "p04_02"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_05",
+      "pen_order": 5,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p05_00",
+          "x": 33.0,
+          "y": 6.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_01a",
+          "x": 34.125,
+          "y": 6.812,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_01b",
+          "x": 37.521,
+          "y": 6.729,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_01",
+          "x": 39.75,
+          "y": 7.125,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_02a",
+          "x": 41.979,
+          "y": 7.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_02b",
+          "x": 44.688,
+          "y": 8.333,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_02",
+          "x": 46.375,
+          "y": 9.125,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_03a",
+          "x": 48.062,
+          "y": 9.917,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_03b",
+          "x": 48.958,
+          "y": 10.771,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_03",
+          "x": 49.875,
+          "y": 11.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_04a",
+          "x": 50.792,
+          "y": 12.979,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_04b",
+          "x": 51.458,
+          "y": 14.292,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_04",
+          "x": 51.875,
+          "y": 15.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_05a",
+          "x": 52.292,
+          "y": 17.208,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_05b",
+          "x": 52.458,
+          "y": 18.979,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_05",
+          "x": 52.375,
+          "y": 20.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_06a",
+          "x": 52.292,
+          "y": 22.271,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_06b",
+          "x": 51.688,
+          "y": 24.438,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_06",
+          "x": 51.375,
+          "y": 25.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_07a",
+          "x": 51.062,
+          "y": 26.812,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_07b",
+          "x": 50.958,
+          "y": 26.979,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_07",
+          "x": 50.5,
+          "y": 27.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_08a",
+          "x": 50.042,
+          "y": 28.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_08b",
+          "x": 49.229,
+          "y": 29.604,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_08",
+          "x": 48.625,
+          "y": 30.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_09a",
+          "x": 48.021,
+          "y": 30.896,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_09b",
+          "x": 47.521,
+          "y": 31.208,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_09",
+          "x": 46.875,
+          "y": 31.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_10a",
+          "x": 46.229,
+          "y": 32.042,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_10b",
+          "x": 45.583,
+          "y": 32.438,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_10",
+          "x": 44.75,
+          "y": 32.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_11a",
+          "x": 43.917,
+          "y": 33.062,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_11b",
+          "x": 42.729,
+          "y": 32.896,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_11",
+          "x": 41.875,
+          "y": 33.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_12a",
+          "x": 41.021,
+          "y": 34.104,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_12b",
+          "x": 40.0,
+          "y": 35.896,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_12",
+          "x": 39.625,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p05_00",
+          "control_1": "c05_01a",
+          "control_2": "c05_01b",
+          "to": "p05_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_01",
+          "control_1": "c05_02a",
+          "control_2": "c05_02b",
+          "to": "p05_02"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_02",
+          "control_1": "c05_03a",
+          "control_2": "c05_03b",
+          "to": "p05_03"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_03",
+          "control_1": "c05_04a",
+          "control_2": "c05_04b",
+          "to": "p05_04"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_04",
+          "control_1": "c05_05a",
+          "control_2": "c05_05b",
+          "to": "p05_05"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_05",
+          "control_1": "c05_06a",
+          "control_2": "c05_06b",
+          "to": "p05_06"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_06",
+          "control_1": "c05_07a",
+          "control_2": "c05_07b",
+          "to": "p05_07"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_07",
+          "control_1": "c05_08a",
+          "control_2": "c05_08b",
+          "to": "p05_08"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_08",
+          "control_1": "c05_09a",
+          "control_2": "c05_09b",
+          "to": "p05_09"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_09",
+          "control_1": "c05_10a",
+          "control_2": "c05_10b",
+          "to": "p05_10"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_10",
+          "control_1": "c05_11a",
+          "control_2": "c05_11b",
+          "to": "p05_11"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_11",
+          "control_1": "c05_12a",
+          "control_2": "c05_12b",
+          "to": "p05_12"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_06",
+      "pen_order": 6,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p06_00",
+          "x": 13.875,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c06_01a",
+          "x": 16.917,
+          "y": 36.375,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c06_01b",
+          "x": 29.083,
+          "y": 36.375,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p06_01",
+          "x": 32.125,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p06_00",
+          "control_1": "c06_01a",
+          "control_2": "c06_01b",
+          "to": "p06_01"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_07",
+      "pen_order": 7,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p07_00",
+          "x": 13.875,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c07_01a",
+          "x": 13.875,
+          "y": 41.812,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c07_01b",
+          "x": 13.771,
+          "y": 63.458,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p07_01",
+          "x": 13.875,
+          "y": 69.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c07_02a",
+          "x": 13.979,
+          "y": 74.542,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c07_02b",
+          "x": 11.458,
+          "y": 69.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p07_02",
+          "x": 14.5,
+          "y": 69.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c07_03a",
+          "x": 17.542,
+          "y": 69.729,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c07_03b",
+          "x": 29.188,
+          "y": 69.625,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p07_03",
+          "x": 32.125,
+          "y": 69.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p07_00",
+          "control_1": "c07_01a",
+          "control_2": "c07_01b",
+          "to": "p07_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p07_01",
+          "control_1": "c07_02a",
+          "control_2": "c07_02b",
+          "to": "p07_02"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p07_02",
+          "control_1": "c07_03a",
+          "control_2": "c07_03b",
+          "to": "p07_03"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_08",
+      "pen_order": 8,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p08_00",
+          "x": 32.125,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c08_01a",
+          "x": 32.146,
+          "y": 36.375,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c08_01b",
+          "x": 32.229,
+          "y": 36.375,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p08_01",
+          "x": 32.25,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p08_00",
+          "control_1": "c08_01a",
+          "control_2": "c08_01b",
+          "to": "p08_01"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_09",
+      "pen_order": 9,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p09_00",
+          "x": 32.25,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c09_01a",
+          "x": 32.229,
+          "y": 41.896,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c09_01b",
+          "x": 32.146,
+          "y": 63.979,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p09_01",
+          "x": 32.125,
+          "y": 69.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p09_00",
+          "control_1": "c09_01a",
+          "control_2": "c09_01b",
+          "to": "p09_01"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_10",
+      "pen_order": 10,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p10_00",
+          "x": 39.625,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_01a",
+          "x": 39.938,
+          "y": 36.771,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_01b",
+          "x": 40.625,
+          "y": 38.229,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_01",
+          "x": 41.5,
+          "y": 38.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_02a",
+          "x": 42.375,
+          "y": 39.271,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_02b",
+          "x": 43.812,
+          "y": 39.167,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_02",
+          "x": 44.875,
+          "y": 39.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_03a",
+          "x": 45.938,
+          "y": 39.833,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_03b",
+          "x": 46.917,
+          "y": 40.208,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_03",
+          "x": 47.875,
+          "y": 40.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_04a",
+          "x": 48.833,
+          "y": 41.292,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_04b",
+          "x": 49.917,
+          "y": 42.125,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_04",
+          "x": 50.625,
+          "y": 42.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_05a",
+          "x": 51.333,
+          "y": 43.375,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_05b",
+          "x": 51.625,
+          "y": 43.688,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_05",
+          "x": 52.125,
+          "y": 44.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_06a",
+          "x": 52.625,
+          "y": 45.312,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_06b",
+          "x": 53.229,
+          "y": 46.396,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_06",
+          "x": 53.625,
+          "y": 47.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_07a",
+          "x": 54.021,
+          "y": 48.854,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_07b",
+          "x": 54.333,
+          "y": 50.812,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_07",
+          "x": 54.5,
+          "y": 51.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_08a",
+          "x": 54.667,
+          "y": 52.938,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_08b",
+          "x": 54.708,
+          "y": 52.979,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_08",
+          "x": 54.625,
+          "y": 54.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_09a",
+          "x": 54.542,
+          "y": 55.021,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_09b",
+          "x": 54.458,
+          "y": 56.562,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_09",
+          "x": 54.0,
+          "y": 58.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_10a",
+          "x": 53.542,
+          "y": 59.438,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_10b",
+          "x": 52.583,
+          "y": 61.458,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_10",
+          "x": 51.875,
+          "y": 62.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_11a",
+          "x": 51.167,
+          "y": 63.792,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_11b",
+          "x": 50.583,
+          "y": 64.271,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_11",
+          "x": 49.75,
+          "y": 65.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_12a",
+          "x": 48.917,
+          "y": 65.729,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_12b",
+          "x": 48.271,
+          "y": 66.354,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_12",
+          "x": 46.875,
+          "y": 67.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_13a",
+          "x": 45.479,
+          "y": 67.646,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_13b",
+          "x": 43.833,
+          "y": 68.458,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_13",
+          "x": 41.375,
+          "y": 68.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c10_14a",
+          "x": 38.917,
+          "y": 69.292,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c10_14b",
+          "x": 33.667,
+          "y": 69.396,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p10_14",
+          "x": 32.125,
+          "y": 69.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p10_00",
+          "control_1": "c10_01a",
+          "control_2": "c10_01b",
+          "to": "p10_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_01",
+          "control_1": "c10_02a",
+          "control_2": "c10_02b",
+          "to": "p10_02"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_02",
+          "control_1": "c10_03a",
+          "control_2": "c10_03b",
+          "to": "p10_03"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_03",
+          "control_1": "c10_04a",
+          "control_2": "c10_04b",
+          "to": "p10_04"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_04",
+          "control_1": "c10_05a",
+          "control_2": "c10_05b",
+          "to": "p10_05"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_05",
+          "control_1": "c10_06a",
+          "control_2": "c10_06b",
+          "to": "p10_06"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_06",
+          "control_1": "c10_07a",
+          "control_2": "c10_07b",
+          "to": "p10_07"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_07",
+          "control_1": "c10_08a",
+          "control_2": "c10_08b",
+          "to": "p10_08"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_08",
+          "control_1": "c10_09a",
+          "control_2": "c10_09b",
+          "to": "p10_09"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_09",
+          "control_1": "c10_10a",
+          "control_2": "c10_10b",
+          "to": "p10_10"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_10",
+          "control_1": "c10_11a",
+          "control_2": "c10_11b",
+          "to": "p10_11"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_11",
+          "control_1": "c10_12a",
+          "control_2": "c10_12b",
+          "to": "p10_12"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_12",
+          "control_1": "c10_13a",
+          "control_2": "c10_13b",
+          "to": "p10_13"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p10_13",
+          "control_1": "c10_14a",
+          "control_2": "c10_14b",
+          "to": "p10_14"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_11",
+      "pen_order": 11,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p11_00",
+          "x": 32.25,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c11_01a",
+          "x": 33.479,
+          "y": 36.375,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c11_01b",
+          "x": 38.396,
+          "y": 36.375,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p11_01",
+          "x": 39.625,
+          "y": 36.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p11_00",
+          "control_1": "c11_01a",
+          "control_2": "c11_01b",
+          "to": "p11_01"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_12",
+      "pen_order": 12,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p12_00",
+          "x": 32.125,
+          "y": 69.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c12_01a",
+          "x": 32.125,
+          "y": 69.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c12_01b",
+          "x": 32.125,
+          "y": 69.604,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p12_01",
+          "x": 32.125,
+          "y": 69.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p12_00",
+          "control_1": "c12_01a",
+          "control_2": "c12_01b",
+          "to": "p12_01"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_13",
+      "pen_order": 13,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p13_00",
+          "x": 32.125,
+          "y": 69.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c13_01a",
+          "x": 32.125,
+          "y": 71.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c13_01b",
+          "x": 32.125,
+          "y": 79.104,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p13_01",
+          "x": 32.125,
+          "y": 81.0,
+          "role": "end",
+          "locked": false,
+          "max_shift_x": 0.2,
+          "max_shift_y": 0.2
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p13_00",
+          "control_1": "c13_01a",
+          "control_2": "c13_01b",
+          "to": "p13_01"
+        }
+      ]
+    }
+  ],
+  "anchors": {
+    "upper_vowel": {
+      "x": 32.0,
+      "y": 13.0,
+      "max_shift_x": 1.0,
+      "max_shift_y": 0.8
+    },
+    "tone_mark_low": {
+      "x": 32.0,
+      "y": 9.0,
+      "max_shift_x": 1.0,
+      "max_shift_y": 0.6
+    },
+    "tone_mark_high": {
+      "x": 32.0,
+      "y": 3.0,
+      "max_shift_x": 0.8,
+      "max_shift_y": 0.4
+    },
+    "lower_vowel": {
+      "x": 32.0,
+      "y": 86.0,
+      "max_shift_x": 1.0,
+      "max_shift_y": 0.8
+    }
+  },
+  "point_groups": {
+    "main_shape": [
+      "p01_00",
+      "c01_01a",
+      "c01_01b",
+      "p01_01",
+      "c01_02a",
+      "c01_02b",
+      "p01_02",
+      "p02_00",
+      "c02_01a",
+      "c02_01b",
+      "p02_01",
+      "c02_02a",
+      "c02_02b",
+      "p02_02",
+      "c02_03a",
+      "c02_03b",
+      "p02_03",
+      "p03_00",
+      "c03_01a",
+      "c03_01b",
+      "p03_01",
+      "p04_00",
+      "c04_01a",
+      "c04_01b",
+      "p04_01",
+      "c04_02a",
+      "c04_02b",
+      "p04_02",
+      "p05_00",
+      "c05_01a",
+      "c05_01b",
+      "p05_01",
+      "c05_02a",
+      "c05_02b",
+      "p05_02",
+      "c05_03a",
+      "c05_03b",
+      "p05_03",
+      "c05_04a",
+      "c05_04b",
+      "p05_04",
+      "c05_05a",
+      "c05_05b",
+      "p05_05",
+      "c05_06a",
+      "c05_06b",
+      "p05_06",
+      "c05_07a",
+      "c05_07b",
+      "p05_07",
+      "c05_08a",
+      "c05_08b",
+      "p05_08",
+      "c05_09a",
+      "c05_09b",
+      "p05_09",
+      "c05_10a",
+      "c05_10b",
+      "p05_10",
+      "c05_11a",
+      "c05_11b",
+      "p05_11",
+      "c05_12a",
+      "c05_12b",
+      "p05_12",
+      "p06_00",
+      "c06_01a",
+      "c06_01b",
+      "p06_01",
+      "p07_00",
+      "c07_01a",
+      "c07_01b",
+      "p07_01",
+      "c07_02a",
+      "c07_02b",
+      "p07_02",
+      "c07_03a",
+      "c07_03b",
+      "p07_03",
+      "p08_00",
+      "c08_01a",
+      "c08_01b",
+      "p08_01",
+      "p09_00",
+      "c09_01a",
+      "c09_01b",
+      "p09_01",
+      "p10_00",
+      "c10_01a",
+      "c10_01b",
+      "p10_01",
+      "c10_02a",
+      "c10_02b",
+      "p10_02",
+      "c10_03a",
+      "c10_03b",
+      "p10_03",
+      "c10_04a",
+      "c10_04b",
+      "p10_04",
+      "c10_05a",
+      "c10_05b",
+      "p10_05",
+      "c10_06a",
+      "c10_06b",
+      "p10_06",
+      "c10_07a",
+      "c10_07b",
+      "p10_07",
+      "c10_08a",
+      "c10_08b",
+      "p10_08",
+      "c10_09a",
+      "c10_09b",
+      "p10_09",
+      "c10_10a",
+      "c10_10b",
+      "p10_10",
+      "c10_11a",
+      "c10_11b",
+      "p10_11",
+      "c10_12a",
+      "c10_12b",
+      "p10_12",
+      "c10_13a",
+      "c10_13b",
+      "p10_13",
+      "c10_14a",
+      "c10_14b",
+      "p10_14",
+      "p11_00",
+      "c11_01a",
+      "c11_01b",
+      "p11_01",
+      "p12_00",
+      "c12_01a",
+      "c12_01b",
+      "p12_01",
+      "p13_00",
+      "c13_01a",
+      "c13_01b",
+      "p13_01"
+    ],
+    "upper_part": [
+      "p01_00",
+      "c01_01a",
+      "c01_01b",
+      "p01_01",
+      "c01_02a",
+      "c01_02b",
+      "p01_02",
+      "p02_00",
+      "c02_01a",
+      "c02_01b",
+      "p02_01",
+      "c02_02a",
+      "c02_02b",
+      "p02_02",
+      "c02_03a",
+      "c02_03b",
+      "p02_03",
+      "p03_00",
+      "c03_01a",
+      "c03_01b",
+      "p03_01",
+      "p04_00",
+      "c04_01a",
+      "c04_01b",
+      "p04_01",
+      "c04_02a",
+      "c04_02b",
+      "p04_02",
+      "p05_00",
+      "c05_01a",
+      "c05_01b",
+      "p05_01",
+      "c05_02a",
+      "c05_02b",
+      "p05_02",
+      "c05_03a",
+      "c05_03b",
+      "p05_03",
+      "c05_04a",
+      "c05_04b",
+      "p05_04",
+      "c05_05a",
+      "c05_05b",
+      "p05_05",
+      "c05_06a",
+      "c05_06b",
+      "p05_06",
+      "c05_07a",
+      "c05_07b",
+      "p05_07",
+      "c05_08a",
+      "c05_08b",
+      "p05_08",
+      "c05_09a",
+      "c05_09b",
+      "p05_09",
+      "c05_10a",
+      "c05_10b",
+      "p05_10",
+      "c05_11a",
+      "c05_11b",
+      "p05_11",
+      "c05_12a",
+      "c05_12b",
+      "p05_12",
+      "p06_00",
+      "c06_01a",
+      "c06_01b",
+      "p06_01",
+      "p07_00",
+      "p08_00",
+      "c08_01a",
+      "c08_01b",
+      "p08_01",
+      "p09_00",
+      "p10_00",
+      "c10_01a",
+      "c10_01b",
+      "p10_01",
+      "c10_02a",
+      "c10_02b",
+      "p10_02",
+      "c10_03a",
+      "p11_00",
+      "c11_01a",
+      "c11_01b",
+      "p11_01"
+    ],
+    "lower_part": [
+      "c07_01a",
+      "c07_01b",
+      "p07_01",
+      "c07_02a",
+      "c07_02b",
+      "p07_02",
+      "c07_03a",
+      "c07_03b",
+      "p07_03",
+      "c09_01a",
+      "c09_01b",
+      "p09_01",
+      "c10_03b",
+      "p10_03",
+      "c10_04a",
+      "c10_04b",
+      "p10_04",
+      "c10_05a",
+      "c10_05b",
+      "p10_05",
+      "c10_06a",
+      "c10_06b",
+      "p10_06",
+      "c10_07a",
+      "c10_07b",
+      "p10_07",
+      "c10_08a",
+      "c10_08b",
+      "p10_08",
+      "c10_09a",
+      "c10_09b",
+      "p10_09",
+      "c10_10a",
+      "c10_10b",
+      "p10_10",
+      "c10_11a",
+      "c10_11b",
+      "p10_11",
+      "c10_12a",
+      "c10_12b",
+      "p10_12",
+      "c10_13a",
+      "c10_13b",
+      "p10_13",
+      "c10_14a",
+      "c10_14b",
+      "p10_14",
+      "p12_00",
+      "c12_01a",
+      "c12_01b",
+      "p12_01",
+      "p13_00",
+      "c13_01a",
+      "c13_01b",
+      "p13_01"
+    ]
+  },
+  "variation": {
+    "global": {
+      "width_scale": {
+        "min": 0.92,
+        "max": 1.08,
+        "distribution": "normal",
+        "mean": 1.0,
+        "std": 0.025
+      },
+      "height_scale": {
+        "min": 0.94,
+        "max": 1.07,
+        "distribution": "normal",
+        "mean": 1.0,
+        "std": 0.02
+      },
+      "slant": {
+        "min": -0.05,
+        "max": 0.07,
+        "distribution": "normal",
+        "mean": 0.01,
+        "std": 0.025
+      },
+      "translate_x": {
+        "min": -0.5,
+        "max": 0.5
+      },
+      "translate_y": {
+        "min": -0.5,
+        "max": 0.5
+      },
+      "stroke_width": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    "groups": []
+  },
+  "optional_components": [],
+  "distinguishing_features": {
+    "description": "centerline network derived from the reference glyph for บาท; retain terminal and junction positions",
+    "critical_points": [
+      "p01_01",
+      "p01_02",
+      "p02_00",
+      "p02_01",
+      "p02_02",
+      "p02_03",
+      "p03_00",
+      "p03_01",
+      "p04_00",
+      "p04_01",
+      "p04_02",
+      "p05_00",
+      "p05_01",
+      "p05_02",
+      "p05_03",
+      "p05_04",
+      "p05_05",
+      "p05_06",
+      "p05_07",
+      "p05_08",
+      "p05_09",
+      "p05_10",
+      "p05_11",
+      "p05_12",
+      "p06_00",
+      "p06_01",
+      "p07_00",
+      "p07_01",
+      "p07_02",
+      "p07_03",
+      "p08_00",
+      "p08_01",
+      "p09_00",
+      "p09_01",
+      "p10_00",
+      "p10_01",
+      "p10_02",
+      "p10_03",
+      "p10_04",
+      "p10_05",
+      "p10_06",
+      "p10_07",
+      "p10_08",
+      "p10_09",
+      "p10_10",
+      "p10_11",
+      "p10_12",
+      "p10_13",
+      "p10_14",
+      "p11_00",
+      "p11_01",
+      "p12_00",
+      "p12_01",
+      "p13_00"
+    ]
+  },
+  "constraints": {
+    "preserve_stroke_count": true,
+    "preserve_segment_order": true,
+    "prevent_new_intersections": true,
+    "minimum_width": 43,
+    "maximum_width": 51,
+    "minimum_height": 79,
+    "maximum_height": 87
+  },
+  "seed_variants": {
+    "schema_version": 1,
+    "seed_scope": "person_seed_plus_codepoint_occurrence",
+    "head_mode_scope": "person_seed",
+    "selection": "weighted_deterministic",
+    "styles": [
+      {
+        "id": "natural",
+        "label_th": "ทรงธรรมชาติ",
+        "weight": 0.5,
+        "width_scale": [
+          0.94,
+          1.06
+        ],
+        "height_scale": [
+          0.94,
+          1.06
+        ],
+        "slant": [
+          -0.045,
+          0.065
+        ],
+        "point_jitter_scale": 0.55,
+        "curve_simplify": [
+          0.0,
+          0.05
+        ]
+      },
+      {
+        "id": "flat",
+        "label_th": "ตัวแบน",
+        "weight": 0.25,
+        "width_scale": [
+          0.97,
+          1.08
+        ],
+        "height_scale": [
+          0.84,
+          0.93
+        ],
+        "slant": [
+          -0.035,
+          0.055
+        ],
+        "point_jitter_scale": 0.65,
+        "curve_simplify": [
+          0.03,
+          0.12
+        ]
+      },
+      {
+        "id": "reduced",
+        "label_th": "ลดรูป",
+        "weight": 0.25,
+        "width_scale": [
+          0.92,
+          1.05
+        ],
+        "height_scale": [
+          0.92,
+          1.04
+        ],
+        "slant": [
+          -0.04,
+          0.06
+        ],
+        "point_jitter_scale": 0.7,
+        "curve_simplify": [
+          0.12,
+          0.24
+        ]
+      }
+    ],
+    "head_options": [],
+    "head_modes": []
+  }
+}

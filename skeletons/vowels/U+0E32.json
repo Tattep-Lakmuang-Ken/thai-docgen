@@ -1,0 +1,635 @@
+{
+  "format_version": "1.0",
+  "character": "า",
+  "character_name": "สระอา",
+  "codepoint": "U+0E32",
+  "unicode_name": "THAI CHARACTER SARA AA",
+  "category": "vowel",
+  "placement": {
+    "kind": "spacing_vowel",
+    "attach_to": "base_consonant",
+    "anchor": "baseline"
+  },
+  "canvas": {
+    "width": 64,
+    "height": 96,
+    "baseline_y": 78,
+    "ascender_y": 10,
+    "descender_y": 88
+  },
+  "metrics": {
+    "advance_width": 58,
+    "left_bearing": 14.125,
+    "right_bearing": 22.979
+  },
+  "reference": {
+    "canonical_style": "thai_round_head_optional",
+    "trace_method": "font_medial_axis_graph",
+    "stroke_order_source": null,
+    "shape_reference_source": "Noto Sans Thai Looped 2.000 (SIL OFL 1.1); centerline derived with Zhang-Suen thinning",
+    "reference_notes": "geometry_checked_against_reference_glyph; branch paths are ordered by position and must not be treated as an authoritative school stroke order"
+  },
+  "review": {
+    "status": "geometry_checked",
+    "topology": "medial_axis_graph",
+    "stroke_order": "inferred_position_order",
+    "clean_preview": "passed_contact_sheet_review",
+    "variation_test": "sampler_implemented_not_visually_reviewed",
+    "review_notes": "Centerline connectivity and glyph silhouette checked against the reference preview; instructional stroke order is not verified."
+  },
+  "strokes": [
+    {
+      "stroke_id": "stroke_01",
+      "pen_order": 1,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p01_00",
+          "x": 14.125,
+          "y": 22.375,
+          "role": "start",
+          "locked": false,
+          "max_shift_x": 0.2,
+          "max_shift_y": 0.2
+        },
+        {
+          "id": "c01_01a",
+          "x": 15.167,
+          "y": 21.917,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_01b",
+          "x": 18.521,
+          "y": 20.208,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_01",
+          "x": 20.375,
+          "y": 19.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_02a",
+          "x": 22.229,
+          "y": 19.042,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_02b",
+          "x": 23.792,
+          "y": 19.0,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_02",
+          "x": 25.25,
+          "y": 18.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_03a",
+          "x": 26.708,
+          "y": 18.75,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_03b",
+          "x": 27.896,
+          "y": 18.771,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_03",
+          "x": 29.125,
+          "y": 18.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_04a",
+          "x": 30.354,
+          "y": 18.979,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_04b",
+          "x": 31.708,
+          "y": 19.25,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_04",
+          "x": 32.625,
+          "y": 19.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_05a",
+          "x": 33.542,
+          "y": 19.75,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_05b",
+          "x": 33.833,
+          "y": 19.854,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_05",
+          "x": 34.625,
+          "y": 20.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_06a",
+          "x": 35.417,
+          "y": 20.896,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_06b",
+          "x": 36.708,
+          "y": 21.938,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_06",
+          "x": 37.375,
+          "y": 22.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_07a",
+          "x": 38.042,
+          "y": 23.312,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_07b",
+          "x": 38.188,
+          "y": 23.562,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_07",
+          "x": 38.625,
+          "y": 24.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_08a",
+          "x": 39.062,
+          "y": 25.438,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_08b",
+          "x": 39.625,
+          "y": 26.396,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_08",
+          "x": 40.0,
+          "y": 28.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_09a",
+          "x": 40.375,
+          "y": 30.104,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_09b",
+          "x": 40.729,
+          "y": 28.188,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_09",
+          "x": 40.875,
+          "y": 35.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_10a",
+          "x": 41.021,
+          "y": 43.062,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_10b",
+          "x": 40.875,
+          "y": 66.667,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_10",
+          "x": 40.875,
+          "y": 72.875,
+          "role": "end",
+          "locked": false,
+          "max_shift_x": 0.2,
+          "max_shift_y": 0.2
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p01_00",
+          "control_1": "c01_01a",
+          "control_2": "c01_01b",
+          "to": "p01_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_01",
+          "control_1": "c01_02a",
+          "control_2": "c01_02b",
+          "to": "p01_02"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_02",
+          "control_1": "c01_03a",
+          "control_2": "c01_03b",
+          "to": "p01_03"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_03",
+          "control_1": "c01_04a",
+          "control_2": "c01_04b",
+          "to": "p01_04"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_04",
+          "control_1": "c01_05a",
+          "control_2": "c01_05b",
+          "to": "p01_05"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_05",
+          "control_1": "c01_06a",
+          "control_2": "c01_06b",
+          "to": "p01_06"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_06",
+          "control_1": "c01_07a",
+          "control_2": "c01_07b",
+          "to": "p01_07"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_07",
+          "control_1": "c01_08a",
+          "control_2": "c01_08b",
+          "to": "p01_08"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_08",
+          "control_1": "c01_09a",
+          "control_2": "c01_09b",
+          "to": "p01_09"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_09",
+          "control_1": "c01_10a",
+          "control_2": "c01_10b",
+          "to": "p01_10"
+        }
+      ]
+    }
+  ],
+  "anchors": {
+    "upper_vowel": {
+      "x": 32.0,
+      "y": 13.0,
+      "max_shift_x": 1.0,
+      "max_shift_y": 0.8
+    },
+    "tone_mark_low": {
+      "x": 32.0,
+      "y": 9.0,
+      "max_shift_x": 1.0,
+      "max_shift_y": 0.6
+    },
+    "tone_mark_high": {
+      "x": 32.0,
+      "y": 3.0,
+      "max_shift_x": 0.8,
+      "max_shift_y": 0.4
+    },
+    "lower_vowel": {
+      "x": 32.0,
+      "y": 86.0,
+      "max_shift_x": 1.0,
+      "max_shift_y": 0.8
+    }
+  },
+  "point_groups": {
+    "main_shape": [
+      "p01_00",
+      "c01_01a",
+      "c01_01b",
+      "p01_01",
+      "c01_02a",
+      "c01_02b",
+      "p01_02",
+      "c01_03a",
+      "c01_03b",
+      "p01_03",
+      "c01_04a",
+      "c01_04b",
+      "p01_04",
+      "c01_05a",
+      "c01_05b",
+      "p01_05",
+      "c01_06a",
+      "c01_06b",
+      "p01_06",
+      "c01_07a",
+      "c01_07b",
+      "p01_07",
+      "c01_08a",
+      "c01_08b",
+      "p01_08",
+      "c01_09a",
+      "c01_09b",
+      "p01_09",
+      "c01_10a",
+      "c01_10b",
+      "p01_10"
+    ],
+    "upper_part": [
+      "p01_00",
+      "c01_01a",
+      "c01_01b",
+      "p01_01",
+      "c01_02a",
+      "c01_02b",
+      "p01_02",
+      "c01_03a",
+      "c01_03b",
+      "p01_03",
+      "c01_04a",
+      "c01_04b",
+      "p01_04",
+      "c01_05a",
+      "c01_05b",
+      "p01_05",
+      "c01_06a",
+      "c01_06b",
+      "p01_06",
+      "c01_07a",
+      "c01_07b",
+      "p01_07",
+      "c01_08a",
+      "c01_08b",
+      "p01_08",
+      "c01_09a",
+      "c01_09b",
+      "p01_09"
+    ],
+    "lower_part": [
+      "c01_10a",
+      "c01_10b",
+      "p01_10"
+    ]
+  },
+  "variation": {
+    "global": {
+      "width_scale": {
+        "min": 0.92,
+        "max": 1.08,
+        "distribution": "normal",
+        "mean": 1.0,
+        "std": 0.025
+      },
+      "height_scale": {
+        "min": 0.94,
+        "max": 1.07,
+        "distribution": "normal",
+        "mean": 1.0,
+        "std": 0.02
+      },
+      "slant": {
+        "min": -0.05,
+        "max": 0.07,
+        "distribution": "normal",
+        "mean": 0.01,
+        "std": 0.025
+      },
+      "translate_x": {
+        "min": -0.5,
+        "max": 0.5
+      },
+      "translate_y": {
+        "min": -0.5,
+        "max": 0.5
+      },
+      "stroke_width": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    "groups": []
+  },
+  "optional_components": [],
+  "distinguishing_features": {
+    "description": "centerline network derived from the reference glyph for สระอา; retain terminal and junction positions",
+    "critical_points": [
+      "p01_01",
+      "p01_02",
+      "p01_03",
+      "p01_04",
+      "p01_05",
+      "p01_06",
+      "p01_07",
+      "p01_08",
+      "p01_09"
+    ]
+  },
+  "constraints": {
+    "preserve_stroke_count": true,
+    "preserve_segment_order": true,
+    "prevent_new_intersections": true,
+    "minimum_width": 27,
+    "maximum_width": 35,
+    "minimum_height": 54,
+    "maximum_height": 62
+  },
+  "seed_variants": {
+    "schema_version": 1,
+    "seed_scope": "person_seed_plus_codepoint_occurrence",
+    "head_mode_scope": "person_seed",
+    "selection": "weighted_deterministic",
+    "styles": [
+      {
+        "id": "natural",
+        "label_th": "ทรงธรรมชาติ",
+        "weight": 0.5,
+        "width_scale": [
+          0.94,
+          1.06
+        ],
+        "height_scale": [
+          0.94,
+          1.06
+        ],
+        "slant": [
+          -0.045,
+          0.065
+        ],
+        "point_jitter_scale": 0.55,
+        "curve_simplify": [
+          0.0,
+          0.05
+        ]
+      },
+      {
+        "id": "flat",
+        "label_th": "ตัวแบน",
+        "weight": 0.25,
+        "width_scale": [
+          0.97,
+          1.08
+        ],
+        "height_scale": [
+          0.84,
+          0.93
+        ],
+        "slant": [
+          -0.035,
+          0.055
+        ],
+        "point_jitter_scale": 0.65,
+        "curve_simplify": [
+          0.03,
+          0.12
+        ]
+      },
+      {
+        "id": "reduced",
+        "label_th": "ลดรูป",
+        "weight": 0.25,
+        "width_scale": [
+          0.92,
+          1.05
+        ],
+        "height_scale": [
+          0.92,
+          1.04
+        ],
+        "slant": [
+          -0.04,
+          0.06
+        ],
+        "point_jitter_scale": 0.7,
+        "curve_simplify": [
+          0.12,
+          0.24
+        ]
+      }
+    ],
+    "head_options": [],
+    "head_modes": []
+  }
+}

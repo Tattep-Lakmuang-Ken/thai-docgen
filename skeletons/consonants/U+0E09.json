@@ -1,0 +1,2748 @@
+{
+  "format_version": "1.0",
+  "character": "ฉ",
+  "character_name": "ฉ ฉิ่ง",
+  "codepoint": "U+0E09",
+  "unicode_name": "THAI CHARACTER CHO CHING",
+  "category": "consonant",
+  "placement": {
+    "kind": "standalone",
+    "attach_to": null,
+    "anchor": "baseline"
+  },
+  "canvas": {
+    "width": 64,
+    "height": 96,
+    "baseline_y": 78,
+    "ascender_y": 10,
+    "descender_y": 88
+  },
+  "metrics": {
+    "advance_width": 58,
+    "left_bearing": 3.375,
+    "right_bearing": 6.479
+  },
+  "reference": {
+    "canonical_style": "thai_round_head_optional",
+    "trace_method": "font_medial_axis_graph",
+    "stroke_order_source": null,
+    "shape_reference_source": "Noto Sans Thai Looped 2.000 (SIL OFL 1.1); centerline derived with Zhang-Suen thinning",
+    "reference_notes": "geometry_checked_against_reference_glyph; branch paths are ordered by position and must not be treated as an authoritative school stroke order"
+  },
+  "review": {
+    "status": "geometry_checked",
+    "topology": "medial_axis_graph",
+    "stroke_order": "inferred_position_order",
+    "clean_preview": "passed_contact_sheet_review",
+    "variation_test": "sampler_implemented_not_visually_reviewed",
+    "review_notes": "Centerline connectivity and glyph silhouette checked against the reference preview; instructional stroke order is not verified."
+  },
+  "strokes": [
+    {
+      "stroke_id": "stroke_01",
+      "pen_order": 1,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p01_00",
+          "x": 3.375,
+          "y": 28.75,
+          "role": "start",
+          "locked": false,
+          "max_shift_x": 0.2,
+          "max_shift_y": 0.2
+        },
+        {
+          "id": "c01_01a",
+          "x": 3.854,
+          "y": 27.833,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_01b",
+          "x": 4.771,
+          "y": 24.562,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_01",
+          "x": 6.25,
+          "y": 23.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_02a",
+          "x": 7.729,
+          "y": 21.938,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_02b",
+          "x": 10.104,
+          "y": 21.542,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_02",
+          "x": 12.25,
+          "y": 20.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_03a",
+          "x": 14.396,
+          "y": 20.208,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_03b",
+          "x": 16.458,
+          "y": 19.646,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_03",
+          "x": 19.125,
+          "y": 19.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_04a",
+          "x": 21.792,
+          "y": 18.854,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_04b",
+          "x": 25.625,
+          "y": 18.562,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_04",
+          "x": 28.25,
+          "y": 18.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_05a",
+          "x": 30.875,
+          "y": 18.438,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_05b",
+          "x": 32.667,
+          "y": 18.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_05",
+          "x": 34.875,
+          "y": 18.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_06a",
+          "x": 37.083,
+          "y": 19.229,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_06b",
+          "x": 39.896,
+          "y": 20.062,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_06",
+          "x": 41.5,
+          "y": 20.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_07a",
+          "x": 43.104,
+          "y": 21.188,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_07b",
+          "x": 43.604,
+          "y": 21.646,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_07",
+          "x": 44.5,
+          "y": 22.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_08a",
+          "x": 45.396,
+          "y": 22.854,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_08b",
+          "x": 46.104,
+          "y": 23.396,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_08",
+          "x": 46.875,
+          "y": 24.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_09a",
+          "x": 47.646,
+          "y": 25.104,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_09b",
+          "x": 48.542,
+          "y": 26.333,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_09",
+          "x": 49.125,
+          "y": 27.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_10a",
+          "x": 49.708,
+          "y": 28.417,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_10b",
+          "x": 50.062,
+          "y": 29.417,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_10",
+          "x": 50.375,
+          "y": 30.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_11a",
+          "x": 50.688,
+          "y": 31.583,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_11b",
+          "x": 50.833,
+          "y": 32.583,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_11",
+          "x": 51.0,
+          "y": 33.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_12a",
+          "x": 51.167,
+          "y": 35.167,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_12b",
+          "x": 51.333,
+          "y": 36.0,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_12",
+          "x": 51.375,
+          "y": 38.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_13a",
+          "x": 51.417,
+          "y": 40.5,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_13b",
+          "x": 51.375,
+          "y": 45.25,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_13",
+          "x": 51.25,
+          "y": 47.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_14a",
+          "x": 51.125,
+          "y": 49.5,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_14b",
+          "x": 50.938,
+          "y": 49.854,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_14",
+          "x": 50.625,
+          "y": 51.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_15a",
+          "x": 50.312,
+          "y": 52.146,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_15b",
+          "x": 49.708,
+          "y": 52.854,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_15",
+          "x": 49.375,
+          "y": 54.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c01_16a",
+          "x": 49.042,
+          "y": 55.646,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c01_16b",
+          "x": 48.75,
+          "y": 58.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p01_16",
+          "x": 48.625,
+          "y": 59.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p01_00",
+          "control_1": "c01_01a",
+          "control_2": "c01_01b",
+          "to": "p01_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_01",
+          "control_1": "c01_02a",
+          "control_2": "c01_02b",
+          "to": "p01_02"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_02",
+          "control_1": "c01_03a",
+          "control_2": "c01_03b",
+          "to": "p01_03"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_03",
+          "control_1": "c01_04a",
+          "control_2": "c01_04b",
+          "to": "p01_04"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_04",
+          "control_1": "c01_05a",
+          "control_2": "c01_05b",
+          "to": "p01_05"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_05",
+          "control_1": "c01_06a",
+          "control_2": "c01_06b",
+          "to": "p01_06"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_06",
+          "control_1": "c01_07a",
+          "control_2": "c01_07b",
+          "to": "p01_07"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_07",
+          "control_1": "c01_08a",
+          "control_2": "c01_08b",
+          "to": "p01_08"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_08",
+          "control_1": "c01_09a",
+          "control_2": "c01_09b",
+          "to": "p01_09"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_09",
+          "control_1": "c01_10a",
+          "control_2": "c01_10b",
+          "to": "p01_10"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_10",
+          "control_1": "c01_11a",
+          "control_2": "c01_11b",
+          "to": "p01_11"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_11",
+          "control_1": "c01_12a",
+          "control_2": "c01_12b",
+          "to": "p01_12"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_12",
+          "control_1": "c01_13a",
+          "control_2": "c01_13b",
+          "to": "p01_13"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_13",
+          "control_1": "c01_14a",
+          "control_2": "c01_14b",
+          "to": "p01_14"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_14",
+          "control_1": "c01_15a",
+          "control_2": "c01_15b",
+          "to": "p01_15"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p01_15",
+          "control_1": "c01_16a",
+          "control_2": "c01_16b",
+          "to": "p01_16"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_02",
+      "pen_order": 2,
+      "closed": true,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p02_00",
+          "x": 12.375,
+          "y": 39.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_01a",
+          "x": 11.75,
+          "y": 39.354,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_01b",
+          "x": 9.604,
+          "y": 39.646,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_01",
+          "x": 8.75,
+          "y": 39.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_02a",
+          "x": 7.896,
+          "y": 40.104,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_02b",
+          "x": 7.75,
+          "y": 40.229,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_02",
+          "x": 7.25,
+          "y": 40.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_03a",
+          "x": 6.75,
+          "y": 41.021,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_03b",
+          "x": 6.188,
+          "y": 41.271,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_03",
+          "x": 5.75,
+          "y": 42.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_04a",
+          "x": 5.312,
+          "y": 43.229,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_04b",
+          "x": 4.688,
+          "y": 45.104,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_04",
+          "x": 4.625,
+          "y": 46.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_05a",
+          "x": 4.562,
+          "y": 47.896,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_05b",
+          "x": 5.125,
+          "y": 49.708,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_05",
+          "x": 5.375,
+          "y": 50.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_06a",
+          "x": 5.625,
+          "y": 51.542,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_06b",
+          "x": 5.583,
+          "y": 51.458,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_06",
+          "x": 6.125,
+          "y": 52.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_07a",
+          "x": 6.667,
+          "y": 52.542,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_07b",
+          "x": 7.729,
+          "y": 53.458,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_07",
+          "x": 8.625,
+          "y": 53.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_08a",
+          "x": 9.521,
+          "y": 54.292,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_08b",
+          "x": 9.979,
+          "y": 54.417,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_08",
+          "x": 11.5,
+          "y": 54.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_09a",
+          "x": 13.021,
+          "y": 54.583,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_09b",
+          "x": 16.417,
+          "y": 54.104,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_09",
+          "x": 17.75,
+          "y": 54.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_10a",
+          "x": 19.083,
+          "y": 54.646,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_10b",
+          "x": 18.979,
+          "y": 56.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_10",
+          "x": 19.5,
+          "y": 56.125,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_11a",
+          "x": 20.021,
+          "y": 55.729,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_11b",
+          "x": 20.667,
+          "y": 53.562,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_11",
+          "x": 20.875,
+          "y": 52.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_12a",
+          "x": 21.083,
+          "y": 50.438,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_12b",
+          "x": 20.917,
+          "y": 48.292,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_12",
+          "x": 20.75,
+          "y": 46.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_13a",
+          "x": 20.583,
+          "y": 45.208,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_13b",
+          "x": 20.292,
+          "y": 43.75,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_13",
+          "x": 19.875,
+          "y": 42.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_14a",
+          "x": 19.458,
+          "y": 41.75,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_14b",
+          "x": 18.729,
+          "y": 41.208,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_14",
+          "x": 18.25,
+          "y": 40.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_15a",
+          "x": 17.771,
+          "y": 40.292,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_15b",
+          "x": 17.958,
+          "y": 40.25,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_15",
+          "x": 17.0,
+          "y": 40.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_16a",
+          "x": 16.042,
+          "y": 39.75,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_16b",
+          "x": 13.271,
+          "y": 39.375,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p02_16",
+          "x": 12.5,
+          "y": 39.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c02_17a",
+          "x": 11.729,
+          "y": 39.125,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c02_17b",
+          "x": 13.0,
+          "y": 39.146,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p02_00",
+          "control_1": "c02_01a",
+          "control_2": "c02_01b",
+          "to": "p02_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_01",
+          "control_1": "c02_02a",
+          "control_2": "c02_02b",
+          "to": "p02_02"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_02",
+          "control_1": "c02_03a",
+          "control_2": "c02_03b",
+          "to": "p02_03"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_03",
+          "control_1": "c02_04a",
+          "control_2": "c02_04b",
+          "to": "p02_04"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_04",
+          "control_1": "c02_05a",
+          "control_2": "c02_05b",
+          "to": "p02_05"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_05",
+          "control_1": "c02_06a",
+          "control_2": "c02_06b",
+          "to": "p02_06"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_06",
+          "control_1": "c02_07a",
+          "control_2": "c02_07b",
+          "to": "p02_07"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_07",
+          "control_1": "c02_08a",
+          "control_2": "c02_08b",
+          "to": "p02_08"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_08",
+          "control_1": "c02_09a",
+          "control_2": "c02_09b",
+          "to": "p02_09"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_09",
+          "control_1": "c02_10a",
+          "control_2": "c02_10b",
+          "to": "p02_10"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_10",
+          "control_1": "c02_11a",
+          "control_2": "c02_11b",
+          "to": "p02_11"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_11",
+          "control_1": "c02_12a",
+          "control_2": "c02_12b",
+          "to": "p02_12"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_12",
+          "control_1": "c02_13a",
+          "control_2": "c02_13b",
+          "to": "p02_13"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_13",
+          "control_1": "c02_14a",
+          "control_2": "c02_14b",
+          "to": "p02_14"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_14",
+          "control_1": "c02_15a",
+          "control_2": "c02_15b",
+          "to": "p02_15"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_15",
+          "control_1": "c02_16a",
+          "control_2": "c02_16b",
+          "to": "p02_16"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p02_16",
+          "control_1": "c02_17a",
+          "control_2": "c02_17b",
+          "to": "p02_00"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_03",
+      "pen_order": 3,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p03_00",
+          "x": 19.5,
+          "y": 56.125,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c03_01a",
+          "x": 19.479,
+          "y": 58.896,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c03_01b",
+          "x": 19.396,
+          "y": 69.979,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p03_01",
+          "x": 19.375,
+          "y": 72.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p03_00",
+          "control_1": "c03_01a",
+          "control_2": "c03_01b",
+          "to": "p03_01"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_04",
+      "pen_order": 4,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p04_00",
+          "x": 48.625,
+          "y": 59.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_01a",
+          "x": 48.792,
+          "y": 59.542,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_01b",
+          "x": 48.708,
+          "y": 60.062,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_01",
+          "x": 49.625,
+          "y": 60.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_02a",
+          "x": 50.542,
+          "y": 60.688,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_02b",
+          "x": 53.104,
+          "y": 60.896,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_02",
+          "x": 54.125,
+          "y": 61.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_03a",
+          "x": 55.146,
+          "y": 61.604,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_03b",
+          "x": 55.25,
+          "y": 61.875,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_03",
+          "x": 55.75,
+          "y": 62.5,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_04a",
+          "x": 56.25,
+          "y": 63.125,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_04b",
+          "x": 56.833,
+          "y": 63.979,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_04",
+          "x": 57.125,
+          "y": 65.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_05a",
+          "x": 57.417,
+          "y": 66.021,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_05b",
+          "x": 57.521,
+          "y": 67.583,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_05",
+          "x": 57.5,
+          "y": 68.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_06a",
+          "x": 57.479,
+          "y": 69.667,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_06b",
+          "x": 57.229,
+          "y": 70.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_06",
+          "x": 57.0,
+          "y": 71.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_07a",
+          "x": 56.771,
+          "y": 71.979,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_07b",
+          "x": 56.667,
+          "y": 72.396,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_07",
+          "x": 56.125,
+          "y": 73.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_08a",
+          "x": 55.583,
+          "y": 73.604,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_08b",
+          "x": 54.417,
+          "y": 74.479,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_08",
+          "x": 53.75,
+          "y": 74.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_09a",
+          "x": 53.083,
+          "y": 75.271,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_09b",
+          "x": 53.0,
+          "y": 75.25,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_09",
+          "x": 52.125,
+          "y": 75.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_10a",
+          "x": 51.25,
+          "y": 75.5,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_10b",
+          "x": 49.479,
+          "y": 75.646,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_10",
+          "x": 48.5,
+          "y": 75.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_11a",
+          "x": 47.521,
+          "y": 75.604,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_11b",
+          "x": 47.0,
+          "y": 75.5,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_11",
+          "x": 46.25,
+          "y": 75.25,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_12a",
+          "x": 45.5,
+          "y": 75.0,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_12b",
+          "x": 44.604,
+          "y": 74.562,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_12",
+          "x": 44.0,
+          "y": 74.125,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_13a",
+          "x": 43.396,
+          "y": 73.688,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_13b",
+          "x": 42.958,
+          "y": 73.125,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_13",
+          "x": 42.625,
+          "y": 72.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_14a",
+          "x": 42.292,
+          "y": 72.125,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_14b",
+          "x": 42.208,
+          "y": 72.062,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_14",
+          "x": 42.0,
+          "y": 71.125,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_15a",
+          "x": 41.792,
+          "y": 70.188,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_15b",
+          "x": 41.458,
+          "y": 68.417,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_15",
+          "x": 41.375,
+          "y": 67.0,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c04_16a",
+          "x": 41.292,
+          "y": 65.583,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c04_16b",
+          "x": 41.479,
+          "y": 63.354,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p04_16",
+          "x": 41.5,
+          "y": 62.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p04_00",
+          "control_1": "c04_01a",
+          "control_2": "c04_01b",
+          "to": "p04_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_01",
+          "control_1": "c04_02a",
+          "control_2": "c04_02b",
+          "to": "p04_02"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_02",
+          "control_1": "c04_03a",
+          "control_2": "c04_03b",
+          "to": "p04_03"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_03",
+          "control_1": "c04_04a",
+          "control_2": "c04_04b",
+          "to": "p04_04"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_04",
+          "control_1": "c04_05a",
+          "control_2": "c04_05b",
+          "to": "p04_05"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_05",
+          "control_1": "c04_06a",
+          "control_2": "c04_06b",
+          "to": "p04_06"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_06",
+          "control_1": "c04_07a",
+          "control_2": "c04_07b",
+          "to": "p04_07"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_07",
+          "control_1": "c04_08a",
+          "control_2": "c04_08b",
+          "to": "p04_08"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_08",
+          "control_1": "c04_09a",
+          "control_2": "c04_09b",
+          "to": "p04_09"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_09",
+          "control_1": "c04_10a",
+          "control_2": "c04_10b",
+          "to": "p04_10"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_10",
+          "control_1": "c04_11a",
+          "control_2": "c04_11b",
+          "to": "p04_11"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_11",
+          "control_1": "c04_12a",
+          "control_2": "c04_12b",
+          "to": "p04_12"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_12",
+          "control_1": "c04_13a",
+          "control_2": "c04_13b",
+          "to": "p04_13"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_13",
+          "control_1": "c04_14a",
+          "control_2": "c04_14b",
+          "to": "p04_14"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_14",
+          "control_1": "c04_15a",
+          "control_2": "c04_15b",
+          "to": "p04_15"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p04_15",
+          "control_1": "c04_16a",
+          "control_2": "c04_16b",
+          "to": "p04_16"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_05",
+      "pen_order": 5,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p05_00",
+          "x": 48.625,
+          "y": 59.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_01a",
+          "x": 47.833,
+          "y": 59.604,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_01b",
+          "x": 45.062,
+          "y": 60.208,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_01",
+          "x": 43.875,
+          "y": 60.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c05_02a",
+          "x": 42.688,
+          "y": 61.292,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c05_02b",
+          "x": 41.896,
+          "y": 62.312,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p05_02",
+          "x": 41.5,
+          "y": 62.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p05_00",
+          "control_1": "c05_01a",
+          "control_2": "c05_01b",
+          "to": "p05_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p05_01",
+          "control_1": "c05_02a",
+          "control_2": "c05_02b",
+          "to": "p05_02"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_06",
+      "pen_order": 6,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p06_00",
+          "x": 41.5,
+          "y": 62.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c06_01a",
+          "x": 40.562,
+          "y": 62.812,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c06_01b",
+          "x": 37.729,
+          "y": 62.958,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p06_01",
+          "x": 35.875,
+          "y": 63.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c06_02a",
+          "x": 34.021,
+          "y": 64.542,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c06_02b",
+          "x": 31.938,
+          "y": 66.229,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p06_02",
+          "x": 30.375,
+          "y": 67.375,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c06_03a",
+          "x": 28.812,
+          "y": 68.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c06_03b",
+          "x": 28.208,
+          "y": 69.708,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p06_03",
+          "x": 26.5,
+          "y": 70.625,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c06_04a",
+          "x": 24.792,
+          "y": 71.542,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c06_04b",
+          "x": 21.312,
+          "y": 72.521,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p06_04",
+          "x": 20.125,
+          "y": 72.875,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c06_05a",
+          "x": 18.938,
+          "y": 73.229,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c06_05b",
+          "x": 19.5,
+          "y": 72.771,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p06_05",
+          "x": 19.375,
+          "y": 72.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p06_00",
+          "control_1": "c06_01a",
+          "control_2": "c06_01b",
+          "to": "p06_01"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p06_01",
+          "control_1": "c06_02a",
+          "control_2": "c06_02b",
+          "to": "p06_02"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p06_02",
+          "control_1": "c06_03a",
+          "control_2": "c06_03b",
+          "to": "p06_03"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p06_03",
+          "control_1": "c06_04a",
+          "control_2": "c06_04b",
+          "to": "p06_04"
+        },
+        {
+          "type": "cubic_bezier",
+          "from": "p06_04",
+          "control_1": "c06_05a",
+          "control_2": "c06_05b",
+          "to": "p06_05"
+        }
+      ]
+    },
+    {
+      "stroke_id": "stroke_07",
+      "pen_order": 7,
+      "closed": false,
+      "description": "เส้นกิ่งของโครงกระดูกอักษร; ลำดับนี้จัดจากตำแหน่ง ไม่ใช่ลำดับฝึกเขียน",
+      "points": [
+        {
+          "id": "p07_00",
+          "x": 19.375,
+          "y": 72.75,
+          "role": "shape_critical",
+          "locked": true,
+          "max_shift_x": 0.0,
+          "max_shift_y": 0.0
+        },
+        {
+          "id": "c07_01a",
+          "x": 19.354,
+          "y": 72.812,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "c07_01b",
+          "x": 19.271,
+          "y": 73.062,
+          "role": "curve",
+          "locked": false,
+          "max_shift_x": 0.25,
+          "max_shift_y": 0.25
+        },
+        {
+          "id": "p07_01",
+          "x": 19.25,
+          "y": 73.125,
+          "role": "end",
+          "locked": false,
+          "max_shift_x": 0.2,
+          "max_shift_y": 0.2
+        }
+      ],
+      "segments": [
+        {
+          "type": "cubic_bezier",
+          "from": "p07_00",
+          "control_1": "c07_01a",
+          "control_2": "c07_01b",
+          "to": "p07_01"
+        }
+      ]
+    }
+  ],
+  "anchors": {
+    "upper_vowel": {
+      "x": 32.0,
+      "y": 13.0,
+      "max_shift_x": 1.0,
+      "max_shift_y": 0.8
+    },
+    "tone_mark_low": {
+      "x": 32.0,
+      "y": 9.0,
+      "max_shift_x": 1.0,
+      "max_shift_y": 0.6
+    },
+    "tone_mark_high": {
+      "x": 32.0,
+      "y": 3.0,
+      "max_shift_x": 0.8,
+      "max_shift_y": 0.4
+    },
+    "lower_vowel": {
+      "x": 32.0,
+      "y": 86.0,
+      "max_shift_x": 1.0,
+      "max_shift_y": 0.8
+    }
+  },
+  "point_groups": {
+    "main_shape": [
+      "p01_00",
+      "c01_01a",
+      "c01_01b",
+      "p01_01",
+      "c01_02a",
+      "c01_02b",
+      "p01_02",
+      "c01_03a",
+      "c01_03b",
+      "p01_03",
+      "c01_04a",
+      "c01_04b",
+      "p01_04",
+      "c01_05a",
+      "c01_05b",
+      "p01_05",
+      "c01_06a",
+      "c01_06b",
+      "p01_06",
+      "c01_07a",
+      "c01_07b",
+      "p01_07",
+      "c01_08a",
+      "c01_08b",
+      "p01_08",
+      "c01_09a",
+      "c01_09b",
+      "p01_09",
+      "c01_10a",
+      "c01_10b",
+      "p01_10",
+      "c01_11a",
+      "c01_11b",
+      "p01_11",
+      "c01_12a",
+      "c01_12b",
+      "p01_12",
+      "c01_13a",
+      "c01_13b",
+      "p01_13",
+      "c01_14a",
+      "c01_14b",
+      "p01_14",
+      "c01_15a",
+      "c01_15b",
+      "p01_15",
+      "c01_16a",
+      "c01_16b",
+      "p01_16",
+      "p02_00",
+      "c02_01a",
+      "c02_01b",
+      "p02_01",
+      "c02_02a",
+      "c02_02b",
+      "p02_02",
+      "c02_03a",
+      "c02_03b",
+      "p02_03",
+      "c02_04a",
+      "c02_04b",
+      "p02_04",
+      "c02_05a",
+      "c02_05b",
+      "p02_05",
+      "c02_06a",
+      "c02_06b",
+      "p02_06",
+      "c02_07a",
+      "c02_07b",
+      "p02_07",
+      "c02_08a",
+      "c02_08b",
+      "p02_08",
+      "c02_09a",
+      "c02_09b",
+      "p02_09",
+      "c02_10a",
+      "c02_10b",
+      "p02_10",
+      "c02_11a",
+      "c02_11b",
+      "p02_11",
+      "c02_12a",
+      "c02_12b",
+      "p02_12",
+      "c02_13a",
+      "c02_13b",
+      "p02_13",
+      "c02_14a",
+      "c02_14b",
+      "p02_14",
+      "c02_15a",
+      "c02_15b",
+      "p02_15",
+      "c02_16a",
+      "c02_16b",
+      "p02_16",
+      "c02_17a",
+      "c02_17b",
+      "p03_00",
+      "c03_01a",
+      "c03_01b",
+      "p03_01",
+      "p04_00",
+      "c04_01a",
+      "c04_01b",
+      "p04_01",
+      "c04_02a",
+      "c04_02b",
+      "p04_02",
+      "c04_03a",
+      "c04_03b",
+      "p04_03",
+      "c04_04a",
+      "c04_04b",
+      "p04_04",
+      "c04_05a",
+      "c04_05b",
+      "p04_05",
+      "c04_06a",
+      "c04_06b",
+      "p04_06",
+      "c04_07a",
+      "c04_07b",
+      "p04_07",
+      "c04_08a",
+      "c04_08b",
+      "p04_08",
+      "c04_09a",
+      "c04_09b",
+      "p04_09",
+      "c04_10a",
+      "c04_10b",
+      "p04_10",
+      "c04_11a",
+      "c04_11b",
+      "p04_11",
+      "c04_12a",
+      "c04_12b",
+      "p04_12",
+      "c04_13a",
+      "c04_13b",
+      "p04_13",
+      "c04_14a",
+      "c04_14b",
+      "p04_14",
+      "c04_15a",
+      "c04_15b",
+      "p04_15",
+      "c04_16a",
+      "c04_16b",
+      "p04_16",
+      "p05_00",
+      "c05_01a",
+      "c05_01b",
+      "p05_01",
+      "c05_02a",
+      "c05_02b",
+      "p05_02",
+      "p06_00",
+      "c06_01a",
+      "c06_01b",
+      "p06_01",
+      "c06_02a",
+      "c06_02b",
+      "p06_02",
+      "c06_03a",
+      "c06_03b",
+      "p06_03",
+      "c06_04a",
+      "c06_04b",
+      "p06_04",
+      "c06_05a",
+      "c06_05b",
+      "p06_05",
+      "p07_00",
+      "c07_01a",
+      "c07_01b",
+      "p07_01"
+    ],
+    "upper_part": [
+      "p01_00",
+      "c01_01a",
+      "c01_01b",
+      "p01_01",
+      "c01_02a",
+      "c01_02b",
+      "p01_02",
+      "c01_03a",
+      "c01_03b",
+      "p01_03",
+      "c01_04a",
+      "c01_04b",
+      "p01_04",
+      "c01_05a",
+      "c01_05b",
+      "p01_05",
+      "c01_06a",
+      "c01_06b",
+      "p01_06",
+      "c01_07a",
+      "c01_07b",
+      "p01_07",
+      "c01_08a",
+      "c01_08b",
+      "p01_08",
+      "c01_09a",
+      "c01_09b",
+      "p01_09",
+      "c01_10a",
+      "c01_10b",
+      "p01_10",
+      "c01_11a",
+      "c01_11b",
+      "p01_11",
+      "c01_12a",
+      "c01_12b",
+      "p01_12",
+      "p02_00",
+      "c02_01a",
+      "c02_01b",
+      "p02_01",
+      "c02_16a",
+      "c02_16b",
+      "p02_16",
+      "c02_17a",
+      "c02_17b"
+    ],
+    "lower_part": [
+      "c01_13a",
+      "c01_13b",
+      "p01_13",
+      "c01_14a",
+      "c01_14b",
+      "p01_14",
+      "c01_15a",
+      "c01_15b",
+      "p01_15",
+      "c01_16a",
+      "c01_16b",
+      "p01_16",
+      "c02_02a",
+      "c02_02b",
+      "p02_02",
+      "c02_03a",
+      "c02_03b",
+      "p02_03",
+      "c02_04a",
+      "c02_04b",
+      "p02_04",
+      "c02_05a",
+      "c02_05b",
+      "p02_05",
+      "c02_06a",
+      "c02_06b",
+      "p02_06",
+      "c02_07a",
+      "c02_07b",
+      "p02_07",
+      "c02_08a",
+      "c02_08b",
+      "p02_08",
+      "c02_09a",
+      "c02_09b",
+      "p02_09",
+      "c02_10a",
+      "c02_10b",
+      "p02_10",
+      "c02_11a",
+      "c02_11b",
+      "p02_11",
+      "c02_12a",
+      "c02_12b",
+      "p02_12",
+      "c02_13a",
+      "c02_13b",
+      "p02_13",
+      "c02_14a",
+      "c02_14b",
+      "p02_14",
+      "c02_15a",
+      "c02_15b",
+      "p02_15",
+      "p03_00",
+      "c03_01a",
+      "c03_01b",
+      "p03_01",
+      "p04_00",
+      "c04_01a",
+      "c04_01b",
+      "p04_01",
+      "c04_02a",
+      "c04_02b",
+      "p04_02",
+      "c04_03a",
+      "c04_03b",
+      "p04_03",
+      "c04_04a",
+      "c04_04b",
+      "p04_04",
+      "c04_05a",
+      "c04_05b",
+      "p04_05",
+      "c04_06a",
+      "c04_06b",
+      "p04_06",
+      "c04_07a",
+      "c04_07b",
+      "p04_07",
+      "c04_08a",
+      "c04_08b",
+      "p04_08",
+      "c04_09a",
+      "c04_09b",
+      "p04_09",
+      "c04_10a",
+      "c04_10b",
+      "p04_10",
+      "c04_11a",
+      "c04_11b",
+      "p04_11",
+      "c04_12a",
+      "c04_12b",
+      "p04_12",
+      "c04_13a",
+      "c04_13b",
+      "p04_13",
+      "c04_14a",
+      "c04_14b",
+      "p04_14",
+      "c04_15a",
+      "c04_15b",
+      "p04_15",
+      "c04_16a",
+      "c04_16b",
+      "p04_16",
+      "p05_00",
+      "c05_01a",
+      "c05_01b",
+      "p05_01",
+      "c05_02a",
+      "c05_02b",
+      "p05_02",
+      "p06_00",
+      "c06_01a",
+      "c06_01b",
+      "p06_01",
+      "c06_02a",
+      "c06_02b",
+      "p06_02",
+      "c06_03a",
+      "c06_03b",
+      "p06_03",
+      "c06_04a",
+      "c06_04b",
+      "p06_04",
+      "c06_05a",
+      "c06_05b",
+      "p06_05",
+      "p07_00",
+      "c07_01a",
+      "c07_01b",
+      "p07_01"
+    ]
+  },
+  "variation": {
+    "global": {
+      "width_scale": {
+        "min": 0.92,
+        "max": 1.08,
+        "distribution": "normal",
+        "mean": 1.0,
+        "std": 0.025
+      },
+      "height_scale": {
+        "min": 0.94,
+        "max": 1.07,
+        "distribution": "normal",
+        "mean": 1.0,
+        "std": 0.02
+      },
+      "slant": {
+        "min": -0.05,
+        "max": 0.07,
+        "distribution": "normal",
+        "mean": 0.01,
+        "std": 0.025
+      },
+      "translate_x": {
+        "min": -0.5,
+        "max": 0.5
+      },
+      "translate_y": {
+        "min": -0.5,
+        "max": 0.5
+      },
+      "stroke_width": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    "groups": []
+  },
+  "optional_components": [],
+  "distinguishing_features": {
+    "description": "centerline network derived from the reference glyph for ฉ ฉิ่ง; retain terminal and junction positions",
+    "critical_points": [
+      "p01_01",
+      "p01_02",
+      "p01_03",
+      "p01_04",
+      "p01_05",
+      "p01_06",
+      "p01_07",
+      "p01_08",
+      "p01_09",
+      "p01_10",
+      "p01_11",
+      "p01_12",
+      "p01_13",
+      "p01_14",
+      "p01_15",
+      "p01_16",
+      "p02_00",
+      "p02_01",
+      "p02_02",
+      "p02_03",
+      "p02_04",
+      "p02_05",
+      "p02_06",
+      "p02_07",
+      "p02_08",
+      "p02_09",
+      "p02_10",
+      "p02_11",
+      "p02_12",
+      "p02_13",
+      "p02_14",
+      "p02_15",
+      "p02_16",
+      "p03_00",
+      "p03_01",
+      "p04_00",
+      "p04_01",
+      "p04_02",
+      "p04_03",
+      "p04_04",
+      "p04_05",
+      "p04_06",
+      "p04_07",
+      "p04_08",
+      "p04_09",
+      "p04_10",
+      "p04_11",
+      "p04_12",
+      "p04_13",
+      "p04_14",
+      "p04_15",
+      "p04_16",
+      "p05_00",
+      "p05_01",
+      "p05_02",
+      "p06_00",
+      "p06_01",
+      "p06_02",
+      "p06_03",
+      "p06_04",
+      "p06_05",
+      "p07_00"
+    ]
+  },
+  "constraints": {
+    "preserve_stroke_count": true,
+    "preserve_segment_order": true,
+    "prevent_new_intersections": true,
+    "minimum_width": 54,
+    "maximum_width": 62,
+    "minimum_height": 57,
+    "maximum_height": 65
+  },
+  "seed_variants": {
+    "schema_version": 1,
+    "seed_scope": "person_seed_plus_codepoint_occurrence",
+    "head_mode_scope": "person_seed",
+    "selection": "weighted_deterministic",
+    "styles": [
+      {
+        "id": "natural",
+        "label_th": "ทรงธรรมชาติ",
+        "weight": 0.5,
+        "width_scale": [
+          0.94,
+          1.06
+        ],
+        "height_scale": [
+          0.94,
+          1.06
+        ],
+        "slant": [
+          -0.045,
+          0.065
+        ],
+        "point_jitter_scale": 0.55,
+        "curve_simplify": [
+          0.0,
+          0.05
+        ]
+      },
+      {
+        "id": "flat",
+        "label_th": "ตัวแบน",
+        "weight": 0.25,
+        "width_scale": [
+          0.97,
+          1.08
+        ],
+        "height_scale": [
+          0.84,
+          0.93
+        ],
+        "slant": [
+          -0.035,
+          0.055
+        ],
+        "point_jitter_scale": 0.65,
+        "curve_simplify": [
+          0.03,
+          0.12
+        ]
+      },
+      {
+        "id": "reduced",
+        "label_th": "ลดรูป",
+        "weight": 0.25,
+        "width_scale": [
+          0.92,
+          1.05
+        ],
+        "height_scale": [
+          0.92,
+          1.04
+        ],
+        "slant": [
+          -0.04,
+          0.06
+        ],
+        "point_jitter_scale": 0.7,
+        "curve_simplify": [
+          0.12,
+          0.24
+        ]
+      }
+    ],
+    "head_options": [
+      {
+        "feature": "loop_head",
+        "stroke_id": "stroke_02",
+        "description_th": "องค์ประกอบวงหัวทั้งวง; รูปแบบไม่มีหัวจะตัดเส้นวงนี้ออกทั้งหมด"
+      }
+    ],
+    "head_modes": [
+      {
+        "id": "looped",
+        "label_th": "มีวงหัว",
+        "weight": 0.65
+      },
+      {
+        "id": "headless",
+        "label_th": "ไม่มีหัว",
+        "weight": 0.35
+      }
+    ]
+  },
+  "letter_features": {
+    "head": {
+      "presence": "present",
+      "reference_form": "closed_loop",
+      "label_th": "มีหัวแบบวงปิด; มีรูปแบบที่ตัดวงหัวออกทั้งหมด",
+      "head_presence_toggle_supported": true
+    }
+  }
+}

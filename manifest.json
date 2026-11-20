@@ -1,0 +1,714 @@
+{
+  "format_version": "1.1",
+  "script": "Thai",
+  "description": "Thai Unicode character centerline skeletons with cubic Bezier graph edges and deterministic seed variants.",
+  "coverage": {
+    "consonants": 44,
+    "vowels": 11,
+    "diacritics": 16,
+    "symbols": 6,
+    "digits": 10,
+    "total": 87
+  },
+  "files": [
+    {
+      "character": "ก",
+      "codepoint": "U+0E01",
+      "character_name": "ก ไก่",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E01.json"
+    },
+    {
+      "character": "ข",
+      "codepoint": "U+0E02",
+      "character_name": "ข ไข่",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E02.json"
+    },
+    {
+      "character": "ฃ",
+      "codepoint": "U+0E03",
+      "character_name": "ฃ ขวด",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E03.json"
+    },
+    {
+      "character": "ค",
+      "codepoint": "U+0E04",
+      "character_name": "ค ควาย",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E04.json"
+    },
+    {
+      "character": "ฅ",
+      "codepoint": "U+0E05",
+      "character_name": "ฅ คน",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E05.json"
+    },
+    {
+      "character": "ฆ",
+      "codepoint": "U+0E06",
+      "character_name": "ฆ ระฆัง",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E06.json"
+    },
+    {
+      "character": "ง",
+      "codepoint": "U+0E07",
+      "character_name": "ง งู",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E07.json"
+    },
+    {
+      "character": "จ",
+      "codepoint": "U+0E08",
+      "character_name": "จ จาน",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E08.json"
+    },
+    {
+      "character": "ฉ",
+      "codepoint": "U+0E09",
+      "character_name": "ฉ ฉิ่ง",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E09.json"
+    },
+    {
+      "character": "ช",
+      "codepoint": "U+0E0A",
+      "character_name": "ช ช้าง",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E0A.json"
+    },
+    {
+      "character": "ซ",
+      "codepoint": "U+0E0B",
+      "character_name": "ซ โซ่",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E0B.json"
+    },
+    {
+      "character": "ฌ",
+      "codepoint": "U+0E0C",
+      "character_name": "ฌ เฌอ",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E0C.json"
+    },
+    {
+      "character": "ญ",
+      "codepoint": "U+0E0D",
+      "character_name": "ญ หญิง",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E0D.json"
+    },
+    {
+      "character": "ฎ",
+      "codepoint": "U+0E0E",
+      "character_name": "ฎ ชฎา",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E0E.json"
+    },
+    {
+      "character": "ฏ",
+      "codepoint": "U+0E0F",
+      "character_name": "ฏ ปฏัก",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E0F.json"
+    },
+    {
+      "character": "ฐ",
+      "codepoint": "U+0E10",
+      "character_name": "ฐ ฐาน",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E10.json"
+    },
+    {
+      "character": "ฑ",
+      "codepoint": "U+0E11",
+      "character_name": "ฑ มณโฑ",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E11.json"
+    },
+    {
+      "character": "ฒ",
+      "codepoint": "U+0E12",
+      "character_name": "ฒ ผู้เฒ่า",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E12.json"
+    },
+    {
+      "character": "ณ",
+      "codepoint": "U+0E13",
+      "character_name": "ณ เณร",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E13.json"
+    },
+    {
+      "character": "ด",
+      "codepoint": "U+0E14",
+      "character_name": "ด เด็ก",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E14.json"
+    },
+    {
+      "character": "ต",
+      "codepoint": "U+0E15",
+      "character_name": "ต เต่า",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E15.json"
+    },
+    {
+      "character": "ถ",
+      "codepoint": "U+0E16",
+      "character_name": "ถ ถุง",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E16.json"
+    },
+    {
+      "character": "ท",
+      "codepoint": "U+0E17",
+      "character_name": "ท ทหาร",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E17.json"
+    },
+    {
+      "character": "ธ",
+      "codepoint": "U+0E18",
+      "character_name": "ธ ธง",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E18.json"
+    },
+    {
+      "character": "น",
+      "codepoint": "U+0E19",
+      "character_name": "น หนู",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E19.json"
+    },
+    {
+      "character": "บ",
+      "codepoint": "U+0E1A",
+      "character_name": "บ ใบไม้",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E1A.json"
+    },
+    {
+      "character": "ป",
+      "codepoint": "U+0E1B",
+      "character_name": "ป ปลา",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E1B.json"
+    },
+    {
+      "character": "ผ",
+      "codepoint": "U+0E1C",
+      "character_name": "ผ ผึ้ง",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E1C.json"
+    },
+    {
+      "character": "ฝ",
+      "codepoint": "U+0E1D",
+      "character_name": "ฝ ฝา",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E1D.json"
+    },
+    {
+      "character": "พ",
+      "codepoint": "U+0E1E",
+      "character_name": "พ พาน",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E1E.json"
+    },
+    {
+      "character": "ฟ",
+      "codepoint": "U+0E1F",
+      "character_name": "ฟ ฟัน",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E1F.json"
+    },
+    {
+      "character": "ภ",
+      "codepoint": "U+0E20",
+      "character_name": "ภ สำเภา",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E20.json"
+    },
+    {
+      "character": "ม",
+      "codepoint": "U+0E21",
+      "character_name": "ม ม้า",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E21.json"
+    },
+    {
+      "character": "ย",
+      "codepoint": "U+0E22",
+      "character_name": "ย ยักษ์",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E22.json"
+    },
+    {
+      "character": "ร",
+      "codepoint": "U+0E23",
+      "character_name": "ร เรือ",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E23.json"
+    },
+    {
+      "character": "ฤ",
+      "codepoint": "U+0E24",
+      "character_name": "ฤ ฤๅษี",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E24.json"
+    },
+    {
+      "character": "ล",
+      "codepoint": "U+0E25",
+      "character_name": "ล ลิง",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E25.json"
+    },
+    {
+      "character": "ฦ",
+      "codepoint": "U+0E26",
+      "character_name": "ฦ ฦๅ",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E26.json"
+    },
+    {
+      "character": "ว",
+      "codepoint": "U+0E27",
+      "character_name": "ว แหวน",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E27.json"
+    },
+    {
+      "character": "ศ",
+      "codepoint": "U+0E28",
+      "character_name": "ศ ศาลา",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E28.json"
+    },
+    {
+      "character": "ษ",
+      "codepoint": "U+0E29",
+      "character_name": "ษ ฤๅษี",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E29.json"
+    },
+    {
+      "character": "ส",
+      "codepoint": "U+0E2A",
+      "character_name": "ส เสือ",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E2A.json"
+    },
+    {
+      "character": "ห",
+      "codepoint": "U+0E2B",
+      "character_name": "ห หีบ",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E2B.json"
+    },
+    {
+      "character": "ฬ",
+      "codepoint": "U+0E2C",
+      "character_name": "ฬ จุฬา",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E2C.json"
+    },
+    {
+      "character": "อ",
+      "codepoint": "U+0E2D",
+      "character_name": "อ อ่าง",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E2D.json"
+    },
+    {
+      "character": "ฮ",
+      "codepoint": "U+0E2E",
+      "character_name": "ฮ นกฮูก",
+      "category": "consonant",
+      "file": "skeletons/consonants/U+0E2E.json"
+    },
+    {
+      "character": "ฯ",
+      "codepoint": "U+0E2F",
+      "character_name": "ไปยาลน้อย",
+      "category": "symbol",
+      "file": "skeletons/symbols/U+0E2F.json"
+    },
+    {
+      "character": "ะ",
+      "codepoint": "U+0E30",
+      "character_name": "สระอะ",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E30.json"
+    },
+    {
+      "character": "ั",
+      "codepoint": "U+0E31",
+      "character_name": "ไม้หันอากาศ",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E31.json"
+    },
+    {
+      "character": "า",
+      "codepoint": "U+0E32",
+      "character_name": "สระอา",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E32.json"
+    },
+    {
+      "character": "ำ",
+      "codepoint": "U+0E33",
+      "character_name": "สระอำ",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E33.json"
+    },
+    {
+      "character": "ิ",
+      "codepoint": "U+0E34",
+      "character_name": "สระอิ",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E34.json"
+    },
+    {
+      "character": "ี",
+      "codepoint": "U+0E35",
+      "character_name": "สระอี",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E35.json"
+    },
+    {
+      "character": "ึ",
+      "codepoint": "U+0E36",
+      "character_name": "สระอึ",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E36.json"
+    },
+    {
+      "character": "ื",
+      "codepoint": "U+0E37",
+      "character_name": "สระอือ",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E37.json"
+    },
+    {
+      "character": "ุ",
+      "codepoint": "U+0E38",
+      "character_name": "สระอุ",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E38.json"
+    },
+    {
+      "character": "ู",
+      "codepoint": "U+0E39",
+      "character_name": "สระอู",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E39.json"
+    },
+    {
+      "character": "ฺ",
+      "codepoint": "U+0E3A",
+      "character_name": "พินทุ",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E3A.json"
+    },
+    {
+      "character": "฿",
+      "codepoint": "U+0E3F",
+      "character_name": "บาท",
+      "category": "symbol",
+      "file": "skeletons/symbols/U+0E3F.json"
+    },
+    {
+      "character": "เ",
+      "codepoint": "U+0E40",
+      "character_name": "สระเอ",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E40.json"
+    },
+    {
+      "character": "แ",
+      "codepoint": "U+0E41",
+      "character_name": "สระแอ",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E41.json"
+    },
+    {
+      "character": "โ",
+      "codepoint": "U+0E42",
+      "character_name": "สระโอ",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E42.json"
+    },
+    {
+      "character": "ใ",
+      "codepoint": "U+0E43",
+      "character_name": "สระใอไม้ม้วน",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E43.json"
+    },
+    {
+      "character": "ไ",
+      "codepoint": "U+0E44",
+      "character_name": "สระไอไม้มลาย",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E44.json"
+    },
+    {
+      "character": "ๅ",
+      "codepoint": "U+0E45",
+      "character_name": "ลากข้างยาว",
+      "category": "vowel",
+      "file": "skeletons/vowels/U+0E45.json"
+    },
+    {
+      "character": "ๆ",
+      "codepoint": "U+0E46",
+      "character_name": "ไม้ยมก",
+      "category": "symbol",
+      "file": "skeletons/symbols/U+0E46.json"
+    },
+    {
+      "character": "็",
+      "codepoint": "U+0E47",
+      "character_name": "ไม้ไต่คู้",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E47.json"
+    },
+    {
+      "character": "่",
+      "codepoint": "U+0E48",
+      "character_name": "ไม้เอก",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E48.json"
+    },
+    {
+      "character": "้",
+      "codepoint": "U+0E49",
+      "character_name": "ไม้โท",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E49.json"
+    },
+    {
+      "character": "๊",
+      "codepoint": "U+0E4A",
+      "character_name": "ไม้ตรี",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E4A.json"
+    },
+    {
+      "character": "๋",
+      "codepoint": "U+0E4B",
+      "character_name": "ไม้จัตวา",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E4B.json"
+    },
+    {
+      "character": "์",
+      "codepoint": "U+0E4C",
+      "character_name": "ทัณฑฆาต",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E4C.json"
+    },
+    {
+      "character": "ํ",
+      "codepoint": "U+0E4D",
+      "character_name": "นิคหิต",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E4D.json"
+    },
+    {
+      "character": "๎",
+      "codepoint": "U+0E4E",
+      "character_name": "ยามักการ",
+      "category": "diacritic",
+      "file": "skeletons/marks/U+0E4E.json"
+    },
+    {
+      "character": "๏",
+      "codepoint": "U+0E4F",
+      "character_name": "ฟองมัน",
+      "category": "symbol",
+      "file": "skeletons/symbols/U+0E4F.json"
+    },
+    {
+      "character": "๐",
+      "codepoint": "U+0E50",
+      "character_name": "๐ ZERO",
+      "category": "digit",
+      "file": "skeletons/digits/U+0E50.json"
+    },
+    {
+      "character": "๑",
+      "codepoint": "U+0E51",
+      "character_name": "๑ ONE",
+      "category": "digit",
+      "file": "skeletons/digits/U+0E51.json"
+    },
+    {
+      "character": "๒",
+      "codepoint": "U+0E52",
+      "character_name": "๒ TWO",
+      "category": "digit",
+      "file": "skeletons/digits/U+0E52.json"
+    },
+    {
+      "character": "๓",
+      "codepoint": "U+0E53",
+      "character_name": "๓ THREE",
+      "category": "digit",
+      "file": "skeletons/digits/U+0E53.json"
+    },
+    {
+      "character": "๔",
+      "codepoint": "U+0E54",
+      "character_name": "๔ FOUR",
+      "category": "digit",
+      "file": "skeletons/digits/U+0E54.json"
+    },
+    {
+      "character": "๕",
+      "codepoint": "U+0E55",
+      "character_name": "๕ FIVE",
+      "category": "digit",
+      "file": "skeletons/digits/U+0E55.json"
+    },
+    {
+      "character": "๖",
+      "codepoint": "U+0E56",
+      "character_name": "๖ SIX",
+      "category": "digit",
+      "file": "skeletons/digits/U+0E56.json"
+    },
+    {
+      "character": "๗",
+      "codepoint": "U+0E57",
+      "character_name": "๗ SEVEN",
+      "category": "digit",
+      "file": "skeletons/digits/U+0E57.json"
+    },
+    {
+      "character": "๘",
+      "codepoint": "U+0E58",
+      "character_name": "๘ EIGHT",
+      "category": "digit",
+      "file": "skeletons/digits/U+0E58.json"
+    },
+    {
+      "character": "๙",
+      "codepoint": "U+0E59",
+      "character_name": "๙ NINE",
+      "category": "digit",
+      "file": "skeletons/digits/U+0E59.json"
+    },
+    {
+      "character": "๚",
+      "codepoint": "U+0E5A",
+      "character_name": "อังคั่นคู่",
+      "category": "symbol",
+      "file": "skeletons/symbols/U+0E5A.json"
+    },
+    {
+      "character": "๛",
+      "codepoint": "U+0E5B",
+      "character_name": "โคมูตร",
+      "category": "symbol",
+      "file": "skeletons/symbols/U+0E5B.json"
+    }
+  ],
+  "tools": [
+    "tools/sample_seed.py",
+    "tools/write_thai.py"
+  ],
+  "seed_variants": {
+    "schema_version": 1,
+    "styles": [
+      "natural",
+      "flat",
+      "reduced"
+    ],
+    "head_loop_candidates": 38,
+    "seed_scope": "person_seed_plus_codepoint_occurrence",
+    "head_mode_scope": "person_seed",
+    "optional_components": {
+      "beak": [
+        "U+0E01",
+        "U+0E16"
+      ]
+    },
+    "head_inventory": {
+      "head_presence_variants": 38,
+      "already_no_head_reference": 2,
+      "already_no_head_characters": [
+        "U+0E01",
+        "U+0E18"
+      ],
+      "unlooped_reference_forms": 4,
+      "unlooped_reference_characters": [
+        "U+0E0C",
+        "U+0E0D",
+        "U+0E13",
+        "U+0E2E"
+      ]
+    }
+  },
+  "examples": [
+    "examples/สวัสดี.svg",
+    "examples/personas/contact-sheet.svg",
+    "examples/personas/careful.svg",
+    "examples/personas/rounded.svg",
+    "examples/personas/flat.svg",
+    "examples/personas/slanted.svg",
+    "examples/personas/quick.svg",
+    "examples/personas/messy.svg",
+    "examples/personas/messy-17.svg",
+    "examples/personas/messy-42.svg",
+    "examples/personas/messy-seeds.svg",
+    "examples/personas/contact-sheet.png",
+    "examples/personas/messy.png",
+    "examples/personas/messy-seeds.png",
+    "examples/features/beak-variants.svg",
+    "examples/features/beak-variants.png",
+    "examples/features/ก-มีจะงอย.svg",
+    "examples/features/ก-ไม่มีจะงอย.svg",
+    "examples/features/ถ-มีจะงอย.svg",
+    "examples/features/ถ-ไม่มีจะงอย.svg",
+    "examples/features/head-variants.svg",
+    "examples/features/head-variants.png",
+    "examples/features/ข-วงหัว.svg",
+    "examples/features/ข-ไม่มีหัว.svg",
+    "examples/features/ก-ไม่มีหัว.svg",
+    "examples/features/ธ-ไม่มีหัว.svg"
+  ],
+  "handwriting_personas": [
+    {
+      "id": "careful",
+      "label_th": "เป็นระเบียบ ตัวตั้ง"
+    },
+    {
+      "id": "rounded",
+      "label_th": "กลมและเส้นหนัก"
+    },
+    {
+      "id": "flat",
+      "label_th": "ตัวแบน ไม่มีหัว"
+    },
+    {
+      "id": "slanted",
+      "label_th": "เอียงขวา"
+    },
+    {
+      "id": "quick",
+      "label_th": "เขียนเร็ว ลดรูป"
+    },
+    {
+      "id": "messy",
+      "label_th": "ชุ่ย แกว่งสูงต่ำและเอียงไม่เท่ากัน"
+    }
+  ]
+}
