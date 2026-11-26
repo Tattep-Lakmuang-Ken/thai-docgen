@@ -102,6 +102,39 @@ python3 tools/write_thai.py สวัสดี --persona slanted --seed 42 --out
 python3 tools/write_thai.py สวัสดี --persona messy --seed 1 --output สวัสดี-ชุ่ย.svg
 ```
 
+## สุ่มข้อมูลบุคคลและเติมลง template
+
+ใช้ `tools/generate_profiles.py` สร้างข้อมูลภาษาไทยสมมติที่ทำซ้ำได้ด้วย seed มีชื่อ คำนำหน้า นามสกุล ที่อยู่ อาชีพ และรายได้ต่อเดือน:
+
+```sh
+python3 tools/generate_profiles.py --count 5 --seed 42 --output /tmp/profiles.json
+```
+
+ถ้าไม่กำหนด `--seed` จะได้ชุดสุ่มใหม่ในแต่ละครั้ง ข้อมูลทุกชุดมี `synthetic: true` และมีข้อความกำกับว่าเป็นข้อมูลสมมติ ที่อยู่ประกอบจากเลขที่และชื่อถนนที่สุ่มขึ้น ไม่ใช่ข้อมูลที่อยู่ของบุคคลจริง
+
+เลือกส่งฟิลด์เดี่ยวไปให้ตัวสร้างลายมือได้โดยตรง:
+
+```sh
+python3 tools/write_thai.py "$(python3 tools/generate_profiles.py --seed 42 --field full_name)" --seed 42 --output ชื่อ-ตัวอย่าง.svg
+```
+
+เมื่อมี template ข้อความแล้ว ให้ใส่ placeholder ชื่อเดียวกับฟิลด์ เช่น:
+
+```text
+ชื่อ {{full_name}}
+ที่อยู่ {{address}}
+อาชีพ {{occupation}}
+รายได้ {{monthly_income}}
+```
+
+แล้วใช้ `tools/fill_template.py` เติมค่าจาก profile ที่ต้องการ:
+
+```sh
+python3 tools/fill_template.py --template แบบฟอร์ม.txt --data /tmp/profiles.json --index 0 --output แบบฟอร์ม-ตัวอย่าง.txt
+```
+
+ตอนนี้ตัวเติมรองรับ template ข้อความ UTF-8 และแทน `{{field_name}}` โดยตรง เมื่อมีไฟล์เอกสารจริงแล้วจึงค่อยเชื่อม placeholder เหล่านี้กับตำแหน่งหรือช่องของเอกสารนั้น ส่วนรายได้ `monthly_income` เป็นข้อความเลขไทยสำหรับเขียนลายมือ และ `monthly_income_thb` เป็นตัวเลขสำหรับนำไปคำนวณ
+
 ตัวอย่างวงหัวและตัวอักษรที่ไม่มีหัวอยู่ที่ `examples/features/head-variants.svg`; ตัวอย่างจะงอยอยู่ที่ `examples/features/beak-variants.svg`. งานวิจัยด้านโครงสร้างอักษรไทยระบุจะงอยเป็นองค์ประกอบที่พบได้ใน `ก` และ `ถ` ([Burapha-TH](https://www.mdpi.com/2076-3417/12/8/4083)) ใน ก รูปแบบไม่มีจะงอยจะเหลือเส้นโค้งหลักและต่อขาซ้ายถึงฐานเป็นทรง U คว่ำ; ใน ถ จะตัดเฉพาะเส้นจะงอยสั้น ความยาว/สัดส่วนของจะงอยที่สุ่มเพิ่มเป็นตัวเลือกเชิงกระบวนการ ไม่ได้อ้างว่าเป็นมาตรฐานเดียวของลายมือไทย บุคลิกทั้งหมดเป็น preset ที่ปรับจาก skeleton ชุดนี้ ไม่ได้สร้างจากตัวอย่างลายมือของบุคคลจริง
 
 สคริปต์ใช้ Python standard library อย่างเดียว ถ้ามี codepoint ที่ไม่มีในชุด จะบอกตัวอักษรที่ไม่รองรับแทนการข้ามเงียบ ๆ ดูตัวอย่างผลลัพธ์ที่ `examples/สวัสดี.svg`

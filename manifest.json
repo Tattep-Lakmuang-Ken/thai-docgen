@@ -623,7 +623,9 @@
   ],
   "tools": [
     "tools/sample_seed.py",
-    "tools/write_thai.py"
+    "tools/write_thai.py",
+    "tools/generate_profiles.py",
+    "tools/fill_template.py"
   ],
   "seed_variants": {
     "schema_version": 1,
